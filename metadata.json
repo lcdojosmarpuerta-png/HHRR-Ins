@@ -1,0 +1,6 @@
+{
+  "name": "SIGEF-RRHH - Ministerio de Pesca y Acuicultura",
+  "description": "Sistema Integral de Gestión de Capital Humano, Censo y Expediente Digital de la Dirección General de Recursos Humanos del MPPPA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
